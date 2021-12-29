@@ -6,15 +6,15 @@ GameOffer es una aplicación hecha en Ionic (Angular, TypeScript, Sass/Css, Html
 <hr>
 <img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_2.jpg" />
 <hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_3.PNG" />
+<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_3.jpg" />
 <hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_4.PNG" />
+<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_4.jpg" />
 <hr>
 <img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_5.jpg" />
 <hr>
 <img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_6.jpg" />
 <hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_7.PNG" />
+<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_7.jpg" />
 <hr>
 
 
