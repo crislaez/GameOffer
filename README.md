@@ -2,7 +2,7 @@
 
 GameOffer es una aplicación hecha en Ionic (Angular, TypeScript, Sass/Css, Html, Rxjs, Ngrx)
 
-<img src="https://github.com/crislaez/YgoInfo/blob/master/src/assets/images/Gameoffer_1.jpg" />
+<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_1.jpg" />
 <hr>
 <img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_2.jpg" />
 <hr>
