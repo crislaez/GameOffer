@@ -1,0 +1,18 @@
+@import '../../../theme/variables';
+
+.ion-item{
+  .ion-item-ion-image-store{
+    width: 45%;
+
+    img, ion-img{
+      object-fit: cover;
+      width:100%;
+      height:3.3em;
+      border-radius: 10px;
+    }
+  }
+
+  .ion-item-ion-image-store{
+    width: 30%;
+  }
+}

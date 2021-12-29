@@ -1,0 +1,26 @@
+@import '../../../theme/variables';
+
+ion-button{
+  --border-radius: 5px !important;
+}
+
+ion-slides{
+  ion-slide{
+    min-height: 250px;
+  }
+}
+
+.slide-ion-card{
+  width: 100% !important;
+  min-height: 150px;
+  margin-top: -20px;
+
+  img, ion-img{
+    min-height: 150px !important;
+    border-radius: 10px;
+  }
+
+  ion-card-header{
+    height: 50px !important;
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "COMMON":{
+    "TITLE":"Game Offers",
+    "MENU":"Menu",
+    "GAMES":"Games",
+    "DEALS":"Deals",
+    "STORES":"Stores",
+    "ALL_STORES":"All stores",
+    "NORESULT":"No data found, swipe down to reload",
+    "ERROR":"An error has occurred, swipe down to reload",
+    "YES":"Yes",
+    "NO":"No",
+    "RECENT_OFFERS":"Recent offers",
+    "SHOW":"Show in web",
+    "SHARE":"Share",
+    "BY_TITLE":"Title ..."
+  },
+  "ERRORS":{
+    "ERROR_LOAD_GAMES":"error loading games",
+    "ERROR_LOAD_DEALS":"error loading deals",
+    "ERROR_LOAD_STORES":"error loading stores"
+  },
+  "DEALS":{
+    "TITLE":"Title",
+    "PRICE":"Price",
+    "OFFERR":"Offer",
+    "RELEASE_DATE":"Release date",
+    "LAST_GHANGE":"Last change",
+    "DEAL_RATING":"Deal rating",
+    "STORE":"Store",
+    "IS_ON_SALES":"On sales"
+  },
+  "FILTER":{
+    "FILTERS":"Filters",
+    "NONE":"None",
+    "BY_STORE":"Filter by store...",
+    "BY_ON_SALES":"Filter by on sales...",
+    "BY_PRICE":"Order by price...",
+    "ONLY_AAA":"Only AAA..."
+  }
+}
