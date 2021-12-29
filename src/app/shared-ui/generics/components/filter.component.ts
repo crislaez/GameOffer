@@ -34,7 +34,7 @@ import { ModalController } from '@ionic/angular';
 
     <ion-item class="fade-in-card item-select font-medium width-84">
       <ion-label>{{'FILTER.ONLY_AAA' | translate}}</ion-label>
-      <ion-select (ionChange)="changeFilter($any($event), 'AAA')" [value]="statusComponent?.filter?.onSale" interface="action-sheet">
+      <ion-select (ionChange)="changeFilter($any($event), 'AAA')" [value]="statusComponent?.filter?.AAA" interface="action-sheet">
         <!-- <ion-select-option [value]="false">{{ 'FILTER.NONE' | translate}}</ion-select-option> -->
         <ion-select-option *ngFor="let filter of filterCommon; trackBy: trackById" [value]="filter?.value">{{ filter?.label | translate }}</ion-select-option>
       </ion-select>
